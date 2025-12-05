@@ -1,1 +1,1 @@
-print("test입니다.")
+print("test")
